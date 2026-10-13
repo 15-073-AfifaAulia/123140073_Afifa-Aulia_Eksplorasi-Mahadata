@@ -24,4 +24,6 @@ library utama yang dibutuhkan:
 6. Hasil evaluasi metrik (Akurasi, Presisi, Recall, F1-Score, dan Waktu komputasi) untuk ketiga algoritma akan muncul pada *output* di sel terakhir.
 
 ## Ringkasan Hasil
+<img width="441" height="448" alt="Screenshot 2026-10-14 004926" src="https://github.com/user-attachments/assets/37727af3-bba3-4f3c-aee4-3002b1a00558" />
 Pada eksperimen simulasi ini, algoritma **Naive Bayes** menunjukkan performa komputasi paling cepat sekaligus menghasilkan akurasi tertinggi dibandingkan Random Forest dan Decision Tree.
+
